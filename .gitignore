@@ -35,3 +35,9 @@ platforms/android/ant-build/classes.dex
 *.d
 
 platforms/android/ant-build/classes.dex.d
+
+platforms/android/ant-build/AndroidManifest.xml.d
+
+platforms/android/ant-build/classes.dex
+
+*.d
